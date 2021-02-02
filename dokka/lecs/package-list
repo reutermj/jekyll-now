@@ -1,0 +1,22 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:lecs//parse/#kotlin.collections.List[lecs.Token]/PointingToDeclaration/lecs/-parser-kt/parse.html
+$dokka.location:lecs//tokenize/#kotlin.String/PointingToDeclaration/lecs/-tokenizer-kt/tokenize.html
+$dokka.location:lecs/ListNode/<get-endToken>/#/PointingToDeclaration/lecs/-list-node/get-end-token.html
+$dokka.location:lecs/ListNode/<get-nodes>/#/PointingToDeclaration/lecs/-list-node/get-nodes.html
+$dokka.location:lecs/ListNode/<get-startToken>/#/PointingToDeclaration/lecs/-list-node/get-start-token.html
+$dokka.location:lecs/MismatchedClosingBrace/<get-closingBrace>/#/PointingToDeclaration/lecs/-mismatched-closing-brace/get-closing-brace.html
+$dokka.location:lecs/MismatchedClosingBrace/<get-openingBrace>/#/PointingToDeclaration/lecs/-mismatched-closing-brace/get-opening-brace.html
+$dokka.location:lecs/SetNode/<get-endToken>/#/PointingToDeclaration/lecs/-set-node/get-end-token.html
+$dokka.location:lecs/SetNode/<get-nodes>/#/PointingToDeclaration/lecs/-set-node/get-nodes.html
+$dokka.location:lecs/SetNode/<get-startToken>/#/PointingToDeclaration/lecs/-set-node/get-start-token.html
+$dokka.location:lecs/SymbolNode/<get-token>/#/PointingToDeclaration/lecs/-symbol-node/get-token.html
+$dokka.location:lecs/Token/<get-location>/#/PointingToDeclaration/lecs/-token/get-location.html
+$dokka.location:lecs/Token/<get-value>/#/PointingToDeclaration/lecs/-token/get-value.html
+$dokka.location:lecs/UnmatchedClosingBrace/<get-closingBrace>/#/PointingToDeclaration/lecs/-unmatched-closing-brace/get-closing-brace.html
+$dokka.location:lecs/UnmatchedOpeningBraces/<get-openingBraces>/#/PointingToDeclaration/lecs/-unmatched-opening-braces/get-opening-braces.html
+$dokka.location:lecs/VectorNode/<get-endToken>/#/PointingToDeclaration/lecs/-vector-node/get-end-token.html
+$dokka.location:lecs/VectorNode/<get-nodes>/#/PointingToDeclaration/lecs/-vector-node/get-nodes.html
+$dokka.location:lecs/VectorNode/<get-startToken>/#/PointingToDeclaration/lecs/-vector-node/get-start-token.html
+lecs
+
