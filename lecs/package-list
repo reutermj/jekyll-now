@@ -1,0 +1,22 @@
+$dokka.format:jekyll-v1
+$dokka.linkExtension:md
+$dokka.location:lecs//parse/#kotlin.collections.List[lecs.Token]/PointingToDeclaration/lecs/-parser-kt/parse.md
+$dokka.location:lecs//tokenize/#kotlin.String/PointingToDeclaration/lecs/-tokenizer-kt/tokenize.md
+$dokka.location:lecs/ListNode/<get-endToken>/#/PointingToDeclaration/lecs/-list-node/get-end-token.md
+$dokka.location:lecs/ListNode/<get-nodes>/#/PointingToDeclaration/lecs/-list-node/get-nodes.md
+$dokka.location:lecs/ListNode/<get-startToken>/#/PointingToDeclaration/lecs/-list-node/get-start-token.md
+$dokka.location:lecs/MismatchedClosingBrace/<get-closingBrace>/#/PointingToDeclaration/lecs/-mismatched-closing-brace/get-closing-brace.md
+$dokka.location:lecs/MismatchedClosingBrace/<get-openingBrace>/#/PointingToDeclaration/lecs/-mismatched-closing-brace/get-opening-brace.md
+$dokka.location:lecs/SetNode/<get-endToken>/#/PointingToDeclaration/lecs/-set-node/get-end-token.md
+$dokka.location:lecs/SetNode/<get-nodes>/#/PointingToDeclaration/lecs/-set-node/get-nodes.md
+$dokka.location:lecs/SetNode/<get-startToken>/#/PointingToDeclaration/lecs/-set-node/get-start-token.md
+$dokka.location:lecs/SymbolNode/<get-token>/#/PointingToDeclaration/lecs/-symbol-node/get-token.md
+$dokka.location:lecs/Token/<get-location>/#/PointingToDeclaration/lecs/-token/get-location.md
+$dokka.location:lecs/Token/<get-value>/#/PointingToDeclaration/lecs/-token/get-value.md
+$dokka.location:lecs/UnmatchedClosingBrace/<get-closingBrace>/#/PointingToDeclaration/lecs/-unmatched-closing-brace/get-closing-brace.md
+$dokka.location:lecs/UnmatchedOpeningBraces/<get-openingBraces>/#/PointingToDeclaration/lecs/-unmatched-opening-braces/get-opening-braces.md
+$dokka.location:lecs/VectorNode/<get-endToken>/#/PointingToDeclaration/lecs/-vector-node/get-end-token.md
+$dokka.location:lecs/VectorNode/<get-nodes>/#/PointingToDeclaration/lecs/-vector-node/get-nodes.md
+$dokka.location:lecs/VectorNode/<get-startToken>/#/PointingToDeclaration/lecs/-vector-node/get-start-token.md
+lecs
+

@@ -1,0 +1,15 @@
+---
+title: getStartToken -
+---
+//[lecs](../../index.md)/[lecs](../index.md)/[SetNode](index.md)/[getStartToken](get-start-token.md)
+
+
+
+# getStartToken  
+[jvm]  
+Content  
+final [Token](../-token/index.md)[getStartToken](get-start-token.md)()  
+  
+
+
+
