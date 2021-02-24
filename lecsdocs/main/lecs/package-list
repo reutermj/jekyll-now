@@ -5,6 +5,7 @@ $dokka.location:lecs//tokenize/#kotlin.String/PointingToDeclaration/lecs/-token
 $dokka.location:lecs/ListNode/<get-endToken>/#/PointingToDeclaration/lecs/-list-node/get-end-token.html
 $dokka.location:lecs/ListNode/<get-nodes>/#/PointingToDeclaration/lecs/-list-node/get-nodes.html
 $dokka.location:lecs/ListNode/<get-startToken>/#/PointingToDeclaration/lecs/-list-node/get-start-token.html
+$dokka.location:lecs/MalformedStringError/<get-malformedString>/#/PointingToDeclaration/lecs/-malformed-string-error/get-malformed-string.html
 $dokka.location:lecs/MismatchedClosingBrace/<get-closingBrace>/#/PointingToDeclaration/lecs/-mismatched-closing-brace/get-closing-brace.html
 $dokka.location:lecs/MismatchedClosingBrace/<get-openingBrace>/#/PointingToDeclaration/lecs/-mismatched-closing-brace/get-opening-brace.html
 $dokka.location:lecs/SetNode/<get-endToken>/#/PointingToDeclaration/lecs/-set-node/get-end-token.html
