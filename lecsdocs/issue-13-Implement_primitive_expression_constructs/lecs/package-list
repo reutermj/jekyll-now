@@ -1,0 +1,17 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:lecs.parser//parse/#kotlin.collections.List[lecs.parser.Token]/PointingToDeclaration/lecs.parser/-parser-kt/parse.html
+$dokka.location:lecs.parser//tokenize/#kotlin.String/PointingToDeclaration/lecs.parser/-tokenizer-kt/tokenize.html
+$dokka.location:lecs.parser/MalformedStringError/<get-malformedString>/#/PointingToDeclaration/lecs.parser/-malformed-string-error/get-malformed-string.html
+$dokka.location:lecs.parser/MismatchedClosingBrace/<get-closingBrace>/#/PointingToDeclaration/lecs.parser/-mismatched-closing-brace/get-closing-brace.html
+$dokka.location:lecs.parser/MismatchedClosingBrace/<get-openingBrace>/#/PointingToDeclaration/lecs.parser/-mismatched-closing-brace/get-opening-brace.html
+$dokka.location:lecs.parser/SequenceNode/<get-endToken>/#/PointingToDeclaration/lecs.parser/-sequence-node/get-end-token.html
+$dokka.location:lecs.parser/SequenceNode/<get-nodes>/#/PointingToDeclaration/lecs.parser/-sequence-node/get-nodes.html
+$dokka.location:lecs.parser/SequenceNode/<get-startToken>/#/PointingToDeclaration/lecs.parser/-sequence-node/get-start-token.html
+$dokka.location:lecs.parser/SymbolNode/<get-token>/#/PointingToDeclaration/lecs.parser/-symbol-node/get-token.html
+$dokka.location:lecs.parser/Token/<get-location>/#/PointingToDeclaration/lecs.parser/-token/get-location.html
+$dokka.location:lecs.parser/Token/<get-value>/#/PointingToDeclaration/lecs.parser/-token/get-value.html
+$dokka.location:lecs.parser/UnmatchedClosingBrace/<get-closingBrace>/#/PointingToDeclaration/lecs.parser/-unmatched-closing-brace/get-closing-brace.html
+$dokka.location:lecs.parser/UnmatchedOpeningBraces/<get-openingBraces>/#/PointingToDeclaration/lecs.parser/-unmatched-opening-braces/get-opening-braces.html
+lecs.parser
+
